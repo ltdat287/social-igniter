@@ -6,17 +6,3 @@ crossdomain.xml
 favicon.ico
 error_log
 composer.lock
-application/config/config.php
-application/config/database.php
-application/config/custom.php
-application/config/routes.php
-application/config/social_igniter.php
-application/helpers/custom_helper.php
-application/logs/
-application/modules/
-application/views/
-documentation/
-system/
-system/logs/
-uploads/
-vendor/
